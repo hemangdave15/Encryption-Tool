@@ -69,8 +69,5 @@ A cipher that uses matrix multiplication for encryption.
 **Input:** `ACT`, Key Matrix: `6 24 1;13 16 10;20 17 15`  
 **Output:** `POH`  
 
-## License
-This project is open-source and available for modification and distribution.
-
 ## Contributors
-Developed by [Your Name].
+Developed by Hemang Dave.
